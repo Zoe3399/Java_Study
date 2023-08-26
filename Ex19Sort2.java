@@ -1,5 +1,3 @@
-package exam;
-
 import java.util.Arrays;
 
 public class Ex19Sort2 {

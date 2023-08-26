@@ -1,5 +1,3 @@
-package exam;
-
 public class Ex20BinaraySearch {
 
 	public static void main(String[] args) {
