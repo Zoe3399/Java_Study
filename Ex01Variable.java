@@ -1,8 +1,7 @@
 public class Ex01Variable {
 
 	public static void main(String[] args) {
-		// 정수형 변수 num에 5를 대입한 후
-		// num을 출력해주세요
+		// 정수형 변수 num에 5를 대입한 후 num을 출력하기
 		
 		int num = 5;
 		// syso -> 자동완성 : System.out.print();
