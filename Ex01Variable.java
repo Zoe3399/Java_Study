@@ -26,7 +26,6 @@ public class Ex01Variable {
 		System.out.println(age);
 		
 		// short : 2byte (16bit) 2^16 => 65536
-		
 		short lunch = 10000;
 		
 		// int : 4byte (32bit) 2^32 => 약42억
